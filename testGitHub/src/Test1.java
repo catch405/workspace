@@ -1,5 +1,8 @@
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println("hello Word");
+
+        String name = "csg";
+
+        System.out.println("hello Word"+name);
     }
 }
